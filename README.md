@@ -8,12 +8,15 @@
 ​Title of Document: PETITION FOR WRIT OF MANDAMUS PURSUANT TO NRS 239.011 AND NRS 34.160.
 
 
+---
 
 
 ​NRS 239.011: Grants the district court jurisdiction to hear petitions regarding withheld public records and mandates that these cases be given priority over other civil matters.
 
 ​NRS 34.160: Authorizes the Writ of Mandamus to compel the performance of an act which the law especially enjoins as a duty resulting from an office (i.e., compelling the City Clerk to release the records).
 
+
+---
 
 
 exhibits.
@@ -34,6 +37,8 @@ These are the specific laws the City broke.
 ​Count 2: Violation of NRS 239 (Failure to Provide a Privilege Log): The City unlawfully redacted financial ledgers without providing a statutory, itemized index justifying each specific redaction under a recognized legal exemption.
 
 
+---
+
 
 ​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted financial ledgers, the raw IT/metadata logs, and the specific Microsoft Teams communications.
 
@@ -41,6 +46,8 @@ These are the specific laws the City broke.
 
 ​Award any applicable costs or penalties against the City as permitted by NRS 239.
 
+
+---
 
 
 ​Exhibit A: The initial redacted ledgers and the original PRR.
