@@ -11,18 +11,27 @@ Petitioner, Pro Se
 
 
 
+                            IN THE SECOND JUDICIAL DISTRICT COURT OF THE STATE OF NEVADA
+                                         IN AND FOR THE COUNTY OF WASHOE
 
-​Court: Second Judicial District Court, Washoe County, State of Nevada.
+
+
+
 
 ​Petitioner: Darin M. Galloway, Pro Se.
+                                                   VS.
+                                                                    ​Respondents: City of Reno; Mikki Huntsman,
+                                                                     City Clerk; Jackie Bryant, City Manager.
 
-​Respondents: City of Reno; Mikki Huntsman, City Clerk; Jackie Bryant, City Manager.
 
-​Title: PETITION FOR WRIT OF MANDAMUS PURSUANT TO NRS 239.011 AND NRS 34.160.
+
+​ PETITION FOR WRIT OF MANDAMUS PURSUANT TO NRS 239.011 AND NRS 34.160.
 
 
 ---
 
+
+JURISDICTION & VENUE
 
 ​NRS 239.011: Grants the district court jurisdiction to hear petitions regarding withheld public records and mandates that these cases be given priority over other civil matters.
 
@@ -31,11 +40,11 @@ Petitioner, Pro Se
 
 ---
 
-
+FACTUAL BACKGROUND:
 
 ​1. The Request: On October 12, 2026, Petitioner submitted PRR G030683-101226 seeking internal communications (Oct 7-9, 2026) between the Mayor, City Council, RDA Operations Manager, and City Clerks regarding the "Final Distribution" of materials, specifically targeting keywords like "Item A.3", "Dossier", and "Darin Galloway".
 
-2. ​The "Rolling Release" Delay: Outline how the City Clerk's office has engaged in a bad-faith "rolling release" strategy—drip-feeding documents to indefinitely reset the statutory compliance clock and exhaust the requester, violating the spirit and letter of NRS 239.
+2. ​The "Rolling Release" Delay: ​Instead of providing the requested records within the statutory timeframe, the City Clerk’s office engaged in a bad-faith "rolling release" strategy, drip-feeding partial documents to indefinitely reset the statutory compliance clock and exhaust the requester, effectively denying the request through perpetual administrative delay in violation of the spirit and letter of NRS 239.
 
 ​3. The Donrey/Bradshaw Fabrication: On October 23, 2026, the City uploaded heavily redacted emails, explicitly claiming a "Pending Investigation" exemption based on the Donrey of Nevada v. Bradshaw (1990) balancing test.  
 
@@ -61,20 +70,22 @@ Causes of Action (The specific laws broken)
 
 
 
-​Prayer for Relief
+​Prayer for Relief:
 
-​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted contents of G030683_-_Redacted_Emails_-_Pending_Investigation___Donrey_of_Nevada_v_Bradshaw_106_Nev_630_798_P.2d_144_1990_.pdf and G030683_-_Redacted_Emails_-_Attorney_Client.pdf, or submit them to the Court for in camera review.
+1. ​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted contents of G030683_-_Redacted_Emails_-_Pending_Investigation___Donrey_of_Nevada_v_Bradshaw_106_Nev_630_798_P.2d_144_1990_.pdf and G030683_-_Redacted_Emails_-_Attorney_Client.pdf, or submit them to the Court for in camera review.
 
-​Order the City to cease the unlawful use of open-ended "rolling releases" and fulfill the entirety of PRR G030683-101226 immediately.
+2. ​Order the City to cease the unlawful use of open-ended "rolling releases" and fulfill the entirety of PRR G030683-101226 immediately.
 
-​Declare that the City of Reno violated the Nevada Public Records Act.
+3. ​Declare that the City of Reno violated the Nevada Public Records Act.
 
-​Award any applicable costs or penalties against the City as permitted by NRS 239.
+4. ​Award any applicable costs or penalties against the City as permitted by NRS 239.
+
 
 ---
 
 
-​Exhibits (The Receipts)
+
+​Exhibits (The Receipts):
 
 ​Exhibit A: A copy of the original PRR G030683-101226 detailing the custodians and keywords.  
 
