@@ -3,9 +3,9 @@
 
 ​Petitioner: Darin M. Galloway, Pro Se.
 
-​Respondents: City of Reno; Mikki Huntsman, in her official capacity as City Clerk; Jackie Bryant, in her official capacity as City Manager.
+​Respondents: City of Reno; Mikki Huntsman, City Clerk; Jackie Bryant, City Manager.
 
-​Title of Document: PETITION FOR WRIT OF MANDAMUS PURSUANT TO NRS 239.011 AND NRS 34.160.
+​Title: PETITION FOR WRIT OF MANDAMUS PURSUANT TO NRS 239.011 AND NRS 34.160.
 
 
 ---
@@ -19,25 +19,29 @@
 ---
 
 
-exhibits.
 
-​The Initial PRR: Detail the request for the financial ledgers regarding Pierside Investigations. State that the City of Reno provided heavily redacted documents without the legally mandated itemized Privilege Log.
+​The Request: On October 12, 2026, Petitioner submitted PRR G030683-101226 seeking internal communications (Oct 7-9, 2026) between the Mayor, City Council, RDA Operations Manager, and City Clerks regarding the "Final Distribution" of materials, specifically targeting keywords like "Item A.3", "Dossier", and "Darin Galloway".
 
-​The Gary Cecil Trap: Explain that you requested the specific IT metadata and Microsoft Teams communications between Lauren Morris and Brian Smith to prove the redactions were altered post-request.
+​The "Rolling Release" Delay: Outline how the City Clerk's office has engaged in a bad-faith "rolling release" strategy—drip-feeding documents to indefinitely reset the statutory compliance clock and exhaust the requester, violating the spirit and letter of NRS 239.
 
-​The Stonewall: Present Anthony Sullivan’s repetitive, copy-pasted refusal to address the metadata request or provide the communications, proving a deliberate, coordinated effort by the City Clerk's office to suppress the evidence.
+​The Donrey/Bradshaw Fabrication: On October 23, 2026, the City uploaded heavily redacted emails, explicitly claiming a "Pending Investigation" exemption based on the Donrey of Nevada v. Bradshaw (1990) balancing test.  
 
-​The Motive (NRS 354): Briefly state that the records are being suppressed to conceal City Manager Jackie Bryant’s circumvention of the Reno Redevelopment Agency (RDA) Board to authorize unbudgeted General Fund expenditures.
+​The Reality: The requested communications involve standard municipal administrative duties (the distribution of public meeting materials and Redevelopment Agency items). There is no active law enforcement criminal investigation that would trigger a Donrey exemption.
 
+---
 
-These are the specific laws the City broke.
+Causes of Action (The specific laws broken)
 
-​Count 1: Violation of NRS 239 (Unlawful Withholding of Public Records): The City failed to provide the raw administrative IT metadata and the internal communications within the statutory five-business-day window.
+​Count 1: Violation of NRS 239 (Improper Application of the Donrey/Bradshaw Balancing Test): The City is unlawfully withholding public records by falsely claiming a "Pending Investigation" exemption. The Donrey balancing test applies strictly to criminal investigatory files held by law enforcement agencies, not administrative communications between the Mayor, City Council, and Clerks regarding City meeting agendas and document distribution. Even if Donrey applied, the public's right to uncover municipal malfeasance heavily outweighs the City's manufactured need for secrecy.
 
-​Count 2: Violation of NRS 239 (Failure to Provide a Privilege Log): The City unlawfully redacted financial ledgers without providing a statutory, itemized index justifying each specific redaction under a recognized legal exemption.
+​Count 2: Violation of NRS 239 (Unlawful Delay via "Rolling Releases"): The City is intentionally abusing the statutory framework by utilizing open-ended "rolling releases" to delay the production of easily searchable electronic records (Emails/Teams chats), effectively denying the request through perpetual administrative delay.
+
+​Count 3: Violation of NRS 239 (Failure to Provide an Itemized Privilege Log): Despite heavily redacting the "Pending Investigation" emails and the "Attorney Client" emails, the City failed to provide a legally mandated, itemized Privilege Log detailing the specific author, recipient, date, and legal justification for each individual redaction.
+
 
 
 ---
+
 
 
 ​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted financial ledgers, the raw IT/metadata logs, and the specific Microsoft Teams communications.
@@ -50,10 +54,8 @@ These are the specific laws the City broke.
 ---
 
 
-​Exhibit A: The initial redacted ledgers and the original PRR.
+​Exhibits (The Receipts)
 
-​Exhibit B: The follow-up PRRs demanding the metadata and the Teams chats.
+​Exhibit A: A copy of the original PRR G030683-101226 detailing the custodians and keywords.  
 
-​Exhibit C: The email chains showing Anthony Sullivan/the Clerk's office stonewalling the requests.
-
-​Exhibit D: The NRS 354 complaint filed with the NV Department of Taxation (showing the court that state financial regulators are already involved).
+​Exhibit B: The GovQA portal screenshot showing the City's upload on 10/23/2026, explicitly displaying the filenames where they invoked the Donrey v. Bradshaw and Attorney-Client exemptions. 
