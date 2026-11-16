@@ -1,4 +1,17 @@
 
+
+Darin M. Galloway
+119 Keystone Ave
+Reno, NV 89503
+(775) 223-8663
+Petitioner, Pro Se
+                                                                                             ​Case No.: ________________
+                                                                                            Dept. No.: ________________
+
+
+
+
+
 ​Court: Second Judicial District Court, Washoe County, State of Nevada.
 
 ​Petitioner: Darin M. Galloway, Pro Se.
@@ -20,15 +33,19 @@
 
 
 
-​The Request: On October 12, 2026, Petitioner submitted PRR G030683-101226 seeking internal communications (Oct 7-9, 2026) between the Mayor, City Council, RDA Operations Manager, and City Clerks regarding the "Final Distribution" of materials, specifically targeting keywords like "Item A.3", "Dossier", and "Darin Galloway".
+​1. The Request: On October 12, 2026, Petitioner submitted PRR G030683-101226 seeking internal communications (Oct 7-9, 2026) between the Mayor, City Council, RDA Operations Manager, and City Clerks regarding the "Final Distribution" of materials, specifically targeting keywords like "Item A.3", "Dossier", and "Darin Galloway".
 
-​The "Rolling Release" Delay: Outline how the City Clerk's office has engaged in a bad-faith "rolling release" strategy—drip-feeding documents to indefinitely reset the statutory compliance clock and exhaust the requester, violating the spirit and letter of NRS 239.
+2. ​The "Rolling Release" Delay: Outline how the City Clerk's office has engaged in a bad-faith "rolling release" strategy—drip-feeding documents to indefinitely reset the statutory compliance clock and exhaust the requester, violating the spirit and letter of NRS 239.
 
-​The Donrey/Bradshaw Fabrication: On October 23, 2026, the City uploaded heavily redacted emails, explicitly claiming a "Pending Investigation" exemption based on the Donrey of Nevada v. Bradshaw (1990) balancing test.  
+​3. The Donrey/Bradshaw Fabrication: On October 23, 2026, the City uploaded heavily redacted emails, explicitly claiming a "Pending Investigation" exemption based on the Donrey of Nevada v. Bradshaw (1990) balancing test.  
 
-​The Reality: The requested communications involve standard municipal administrative duties (the distribution of public meeting materials and Redevelopment Agency items). There is no active law enforcement criminal investigation that would trigger a Donrey exemption.
+​4. The Reality: The requested communications involve standard municipal administrative duties (the distribution of public meeting materials and Redevelopment Agency items). There is no active law enforcement criminal investigation that would trigger a Donrey exemption.
+
+
 
 ---
+
+
 
 Causes of Action (The specific laws broken)
 
@@ -62,3 +79,17 @@ Causes of Action (The specific laws broken)
 ​Exhibit A: A copy of the original PRR G030683-101226 detailing the custodians and keywords.  
 
 ​Exhibit B: The GovQA portal screenshot showing the City's upload on 10/23/2026, explicitly displaying the filenames where they invoked the Donrey v. Bradshaw and Attorney-Client exemptions. 
+
+
+
+VERIFICATION
+Under penalties of perjury, I declare that I am the Petitioner in the above-entitled action; that I have read the foregoing Petition for Writ of Mandamus and know the contents thereof; that the same is true of my own knowledge, except as to those matters therein stated on information and belief, and as to those matters, I believe them to be true. I declare under penalty of perjury under the law of the State of Nevada that the foregoing is true and correct.
+
+
+​DATED this 16th day of November, 2026.
+
+
+____________________________,
+
+​Darin M. Galloway
+Petitioner, Pro Se
