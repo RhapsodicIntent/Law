@@ -44,12 +44,15 @@ Causes of Action (The specific laws broken)
 
 
 
-​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted financial ledgers, the raw IT/metadata logs, and the specific Microsoft Teams communications.
+​Prayer for Relief
+
+​Issue a Writ of Mandamus compelling the City of Reno to immediately release the unredacted contents of G030683_-_Redacted_Emails_-_Pending_Investigation___Donrey_of_Nevada_v_Bradshaw_106_Nev_630_798_P.2d_144_1990_.pdf and G030683_-_Redacted_Emails_-_Attorney_Client.pdf, or submit them to the Court for in camera review.
+
+​Order the City to cease the unlawful use of open-ended "rolling releases" and fulfill the entirety of PRR G030683-101226 immediately.
 
 ​Declare that the City of Reno violated the Nevada Public Records Act.
 
 ​Award any applicable costs or penalties against the City as permitted by NRS 239.
-
 
 ---
 
